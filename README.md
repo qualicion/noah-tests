@@ -1,4 +1,4 @@
-# SauceDemo E-Commerce Test Automation
+# SauceDemo E-Commerce Test Automation for Noah
 
 This repository contains automated tests for the SauceDemo e-commerce website using Playwright with TypeScript and Page Object Model design pattern.
 
